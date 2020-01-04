@@ -7,8 +7,11 @@ Prepared with the help of this site.
 # Content
 
 PART 1 - DATA PREPROCESSING
+
 PART 2 BUILDING THE SEQ2SEQ MODEL
+
 PART 3 - TRAINING THE SEQ2SEQ MODEL
+
 PART 4 - TESTING THE SEQ2SEQ MODEL
 
 # Description
